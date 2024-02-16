@@ -1,4 +1,6 @@
-package src.main.java.org.abbtech.Lesson7;
+package src.main.java.org.abbtech.Lesson7.Hometask;
+
+import src.main.java.org.abbtech.Lesson7.Hometask.Employee;
 
 public class PartTimeEmployee extends Employee {
 

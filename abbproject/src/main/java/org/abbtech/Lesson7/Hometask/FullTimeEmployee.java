@@ -1,6 +1,8 @@
-package src.main.java.org.abbtech.Lesson7;
+package src.main.java.org.abbtech.Lesson7.Hometask;
 
-public class FullTimeEmployee extends  Employee {
+import src.main.java.org.abbtech.Lesson7.Hometask.Employee;
+
+public class FullTimeEmployee extends Employee {
 
     private double salary;
 

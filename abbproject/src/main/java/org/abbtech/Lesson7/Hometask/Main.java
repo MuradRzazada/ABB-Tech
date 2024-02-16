@@ -1,4 +1,4 @@
-package src.main.java.org.abbtech.Lesson7;
+package src.main.java.org.abbtech.Lesson7.Hometask;
 
 import java.util.*;
 
