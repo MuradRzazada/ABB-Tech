@@ -4,6 +4,18 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.LinkedList;
 
+
+
+//Exercise:
+//1. Create a class named Person with the fields id, name, surname
+//2. Add multiple Person objects to ArrayList and LinkedList
+//Sort Persons by id in ArrayList with Comparable
+//Sort Persons by id in LinkedList with Comparable
+//Add all LinkedList elements to ArrayList
+//Print merged list size
+//Remove LinkedList all elements
+
+
 public class Main {
     public static void main(String[] args) {
 
