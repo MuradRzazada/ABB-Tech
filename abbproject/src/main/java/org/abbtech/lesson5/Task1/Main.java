@@ -8,8 +8,6 @@ public class Main {
         List<Employee> employees = new ArrayList<>();
 
         FullTimeEmployee fullTimeEmployee = new FullTimeEmployee("Murad", 111, 300.0);
-
-
         PartTimeEmployee partTimeEmployee = new PartTimeEmployee("Elcin", 222, 5, 20);
 
         employees.add(fullTimeEmployee);

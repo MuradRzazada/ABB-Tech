@@ -1,6 +1,7 @@
 package src.main.java.org.abbtech.Lesson7.Hometask;
 
 import java.util.*;
+import java.util.function.BiFunction;
 
 public class Main {
     public static void main(String[] args) {
@@ -52,6 +53,8 @@ public class Main {
         employeeMap.put("Maximum", midEmployees.get(midEmployees.size() - 1));
 
         System.out.println("Minimum and maximum salary : " + employeeMap);
+
+
 
     }
 }
