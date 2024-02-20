@@ -19,7 +19,7 @@ import java.util.LinkedList;
 public class Main {
     public static void main(String[] args) {
 
-        ArrayList<Person> arrayList = new ArrayList<>();
+       /* ArrayList<Person> arrayList = new ArrayList<>();
         LinkedList<Person> linkedList = new LinkedList<>();
 
         arrayList.add(new Person("Homer", "Holland", 2));
@@ -44,5 +44,5 @@ public class Main {
         linkedList.clear();
 
         System.out.println("LinkedList size: " + linkedList.size());
-    }
+*/    }
 }
