@@ -1,4 +1,4 @@
-package src.main.java.org.Practise;
+package org.Practise.Exception;
 
 import java.util.*;
 
