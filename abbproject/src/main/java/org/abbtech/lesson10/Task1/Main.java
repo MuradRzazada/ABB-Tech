@@ -1,9 +1,9 @@
-package org.abbtech.lesson10;
+package org.abbtech.lesson10.Task1;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Task1 {
+public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         while (true) {
@@ -21,3 +21,4 @@ public class Task1 {
         scanner.close();
     }
 }
+
