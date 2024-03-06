@@ -3,11 +3,6 @@ package src.main.java.org.Practise.OOP.Task1;
 public class Main {
     public static void main(String[] args) {
 
-        Personn personn1 = new Personn("Jabir",22);
-        Personn personn2 = new Personn("Elcin",20);
-
-        System.out.println("Person1: "+personn1.getName()+" is "+personn1.getAge()+" years old.");
-        System.out.println("Person2: "+personn2.getName()+" is "+personn2.getAge()+" years old.");
     }
 }
 
